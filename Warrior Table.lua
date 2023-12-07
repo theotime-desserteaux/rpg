@@ -1,0 +1,2 @@
+function WarriorTable()
+end
